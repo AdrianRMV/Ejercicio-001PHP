@@ -14,7 +14,7 @@
 
     <h2>FIBONACCI </h2>
 
-    <!-- Formulario para saber la cantidad de calificaciones que quiere evaluar el usuario -->
+
     <fieldset>
         <legend>Numero de REPETICION sucesión fibonacci</legend>
         <form method="POST" action="index.php">
@@ -27,7 +27,7 @@
 
     <br>
 
-    <!-- Formulario para ingresar las calificaciones -->
+
     <fieldset>
         <legend>Sucesión fibonacci</legend>
         <form method="POST" action="index.php">
